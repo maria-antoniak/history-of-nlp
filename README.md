@@ -22,9 +22,12 @@ For anything else, open an issue or contact Maria Antoniak.
 
 ### Overview Slides
 
+[The Long and Winding Road of NLP: Reflections on the Last 30 Years](https://eltimster.github.io/www/pubs/baldwin-jnlp.pdf) by Timothy Baldwin
 
 
 ### Overview Books
+
+[Divination Engines: A Media History of Text Prediction](https://www.proquest.com/docview/1964286735?%20Theses&parentSessionId=53C9QMqagCmgWOxrm1BvxGONBa%2FmcyBtyq%2BcXHxjWPY%3D&sourcetype=Dissertations%20) by Xiaochang Li
 
 
 ### Overview Articles
