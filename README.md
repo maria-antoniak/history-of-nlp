@@ -82,7 +82,13 @@ Frederick Jelinek
 
 ### Quotable Quotes
 
+"You shall know a word by the company it keeps" 
+- Firth
+
 "Whenever I fire a linguist our system performance improves"
 - Fred Jelinek
 - [source](https://en.wikiquote.org/wiki/Fred_Jelinek)
+
+"You can’t crame the meaning of a sentence into a ?!*#-ing vector!!"
+- Ray Mooney
 
