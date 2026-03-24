@@ -6,7 +6,7 @@
 
 ### What is this?
 
-This is a public, crowd-sourced bibliography about the history of natural language processing (NLP). It started as a [Bluesky thread]() and grew from there.
+This is a public, crowd-sourced bibliography about the history of natural language processing (NLP). It started as a [Bluesky thread](https://bsky.app/profile/mariaa.bsky.social/post/3mgpw4wvl6s2v) and grew from there.
 
 ### Can I add to this?
 
