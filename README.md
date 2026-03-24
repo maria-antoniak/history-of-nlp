@@ -26,11 +26,13 @@ For anything else, open an issue or contact Maria Antoniak.
 
 [History of Natural Language Processing CS224N/Ling284](https://web.stanford.edu/class/cs224n/slides_w26/cs224n-2026-lecture01-history.pdf) by Christopher Manning
 
+<br>
 
 ### Overview Books
 
 [Divination Engines: A Media History of Text Prediction](https://www.proquest.com/docview/1964286735?%20Theses&parentSessionId=53C9QMqagCmgWOxrm1BvxGONBa%2FmcyBtyq%2BcXHxjWPY%3D&sourcetype=Dissertations%20) by Xiaochang Li
 
+<br>
 
 ### Popular Press
 
