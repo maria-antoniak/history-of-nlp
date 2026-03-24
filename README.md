@@ -35,6 +35,7 @@ For anything else, open an issue or contact Maria Antoniak.
 ### Articles
 
 [The Georgetown-IBM experiment demonstrated in January 1954](https://aclanthology.org/2004.amta-papers.12/) (Hutchins, AMTA 2004)
+- "The public demonstration of a Russian-English machine translation system in New York in January 1954 – a collaboration of IBM and Georgetown University – caused a great deal of public interest and much controversy. Although a small-scale experiment of just 250 words and six ‘grammar’ rules it raised expectations of automatic systems capable of high quality translation in the near future. This paper describes the system, its background, its impact and its implications."
 
 ### Organizations
 
