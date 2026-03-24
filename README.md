@@ -58,7 +58,15 @@ Margaret Masterman
 Karen Spärck Jones
 - [Wikipedia](https://en.wikipedia.org/wiki/Karen_Sp%C3%A4rck_Jones)
 - [An Oral History](https://ethw.org/Oral-History:Karen_Sp%C3%A4rck_Jones)
-- "Karen Ida Boalth Spärck Jones FBA (26 August 1935 – 4 April 2007) was a self-taught programmer and a pioneering British computer and information scientist responsible for the concept of inverse document frequency (IDF), a technology that underlies most modern search engines. She was an advocate for women in computer science, her slogan being, "Computing is too important to be left to men." In 2019, The New York Times published her belated obituary in its series _Overlooked_, calling her "a pioneer of computer science for work combining statistics and linguistics, and an advocate for women in the field." From 2008, to recognise her achievements in the fields of information retrieval (IR) and natural language processing (NLP), the Karen Spärck Jones Award is awarded annually to a recipient for outstanding research in one or both of her fields." 
+- "Karen Ida Boalth Spärck Jones FBA (26 August 1935 – 4 April 2007) was a self-taught programmer and a pioneering British computer and information scientist responsible for the concept of inverse document frequency (IDF), a technology that underlies most modern search engines. She was an advocate for women in computer science, her slogan being, "Computing is too important to be left to men." In 2019, The New York Times published her belated obituary in its series _Overlooked_, calling her "a pioneer of computer science for work combining statistics and linguistics, and an advocate for women in the field." From 2008, to recognise her achievements in the fields of information retrieval (IR) and natural language processing (NLP), the Karen Spärck Jones Award is awarded annually to a recipient for outstanding research in one or both of her fields."
+
+Frederick Jelinek
+- [Wikipedia](https://en.wikipedia.org/wiki/Frederick_Jelinek)
+- "Frederick Jelinek (18 November 1932 – 14 September 2010) was a Czech-American researcher in information theory, automatic speech recognition, and natural language processing. He is well known for his oft-quoted statement, "Every time I fire a linguist, the performance of the speech recognizer goes up". Jelinek was born in Czechoslovakia before World War II and emigrated with his family to the United States in the early years of the communist regime. He studied engineering at the Massachusetts Institute of Technology and taught for 10 years at Cornell University before accepting a job at IBM Research. In 1961, he married Czech screenwriter Milena Jelinek. At IBM, his team advanced approaches to computer speech recognition and machine translation. After IBM, he went to head the Center for Language and Speech Processing at Johns Hopkins University for 17 years, where he was still working on the day he died." 
 
 ### Quotable Quotes
+
+"Whenever I fire a linguist our system performance improves"
+- Fred Jelinek
+- [source](https://en.wikiquote.org/wiki/Fred_Jelinek)
 
