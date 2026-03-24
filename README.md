@@ -53,6 +53,8 @@ Joseph Weizenbaum. 1966. [ELIZA—a computer program for the study of natural la
 [First Tragedy, then Parse: History Repeats Itself in the New Era of Large Language Models](https://aclanthology.org/2024.naacl-long.128/) (Saphra et al., NAACL 2024)
 - "Many NLP researchers are experiencing an existential crisis triggered by the astonishing success of ChatGPT and other systems based on large language models (LLMs). After such a disruptive change to our understanding of the field, what is left to do? Taking a historical lens, we look for guidance from the first era of LLMs, which began in 2005 with large n-gram models for machine translation (MT). We identify durable lessons from the first era, and more importantly, we identify evergreen problems where NLP researchers can continue to make meaningful contributions in areas where LLMs are ascendant. We argue that disparities in scale are transient and researchers can work to reduce them; that data, rather than hardware, is still a bottleneck for many applications; that meaningful realistic evaluation is still an open problem; and that there is still room for speculative approaches."
 
+[The Development of Natural Language Processing](https://www.academia.edu/6204763/A_Short_History_of_Computational_Linguistics) (Ruth Camburn, 2013)
+
 <br>
 
 ### Organizations
@@ -79,6 +81,10 @@ Karen Spärck Jones
 Frederick Jelinek
 - [Wikipedia](https://en.wikipedia.org/wiki/Frederick_Jelinek)
 - "Frederick Jelinek (18 November 1932 – 14 September 2010) was a Czech-American researcher in information theory, automatic speech recognition, and natural language processing. He is well known for his oft-quoted statement, "Every time I fire a linguist, the performance of the speech recognizer goes up". Jelinek was born in Czechoslovakia before World War II and emigrated with his family to the United States in the early years of the communist regime. He studied engineering at the Massachusetts Institute of Technology and taught for 10 years at Cornell University before accepting a job at IBM Research. In 1961, he married Czech screenwriter Milena Jelinek. At IBM, his team advanced approaches to computer speech recognition and machine translation. After IBM, he went to head the Center for Language and Speech Processing at Johns Hopkins University for 17 years, where he was still working on the day he died."
+
+Terry Winograd
+- [Wikipedia](https://en.wikipedia.org/wiki/Terry_Winograd)
+- "Terry Allen Winograd (born February 24, 1946) is an American computer scientist. He is a professor at Stanford University, and co-director of the Stanford Human–Computer Interaction Group. He is known within the philosophy of mind and artificial intelligence fields for his work on natural language using the SHRDLU program."
 
 <br>
 
