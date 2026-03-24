@@ -14,6 +14,8 @@ Yes please! If you know of books, websites, interviews, blogs, social media thre
 
 For anything else, open an issue or contact Maria Antoniak.
 
+<br><br>
+
 ## Bibliography
 
 ### Slides
