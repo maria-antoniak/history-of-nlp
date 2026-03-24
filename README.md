@@ -45,6 +45,8 @@ For anything else, open an issue or contact Maria Antoniak.
 [The Georgetown-IBM experiment demonstrated in January 1954](https://aclanthology.org/2004.amta-papers.12/) (Hutchins, AMTA 2004)
 - "The public demonstration of a Russian-English machine translation system in New York in January 1954 – a collaboration of IBM and Georgetown University – caused a great deal of public interest and much controversy. Although a small-scale experiment of just 250 words and six ‘grammar’ rules it raised expectations of automatic systems capable of high quality translation in the near future. This paper describes the system, its background, its impact and its implications."
 
+Joseph Weizenbaum. 1966. [ELIZA—a computer program for the study of natural language communication between man and machine.](https://dl.acm.org/doi/10.1145/365153.365168) Commun. ACM 9, 1 (Jan. 1966), 36–45. https://doi.org/10.1145/365153.365168 
+
 [Natural Language Processing: A Historical Review](https://link.springer.com/chapter/10.1007/978-0-585-35958-8_1) (Karen Spärck Jones, 1992)
 - "This paper reviews natural language processing (NLP) from the late 1940’s to the present, seeking to identify its successive trends as these reflect concerns with different problems or the pursuit of different approaches to solving these problems and building systems as wholes. The review distinguishes four phases in the history of NLP, characterised respectively by an emphasis on machine translation, by the influence of artificial intelligence, by the adoption of a logico-grammatical style, and by an attack on massive language data. The account considers the significant and salient work in each phase, and concludes with an assessment of where we stand after more than forty years of effort in the field."
 
@@ -89,6 +91,6 @@ Frederick Jelinek
 - Fred Jelinek
 - [source](https://en.wikiquote.org/wiki/Fred_Jelinek)
 
-"You can’t crame the meaning of a sentence into a ?!*#-ing vector!!"
+"You can’t cram the meaning of a sentence into a ?!*#-ing vector!!"
 - Ray Mooney
 
