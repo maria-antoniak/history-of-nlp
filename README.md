@@ -20,19 +20,14 @@ For anything else, open an issue or contact Maria Antoniak.
 
 ## Bibliography
 
-### Slides
+### Overview Slides
 
 
-### Blog Posts
+
+### Overview Books
 
 
-### Books
-
-
-### Social Media Threads
-
-
-### Articles
+### Overview Articles
 
 [The Georgetown-IBM experiment demonstrated in January 1954](https://aclanthology.org/2004.amta-papers.12/) (Hutchins, AMTA 2004)
 - "The public demonstration of a Russian-English machine translation system in New York in January 1954 – a collaboration of IBM and Georgetown University – caused a great deal of public interest and much controversy. Although a small-scale experiment of just 250 words and six ‘grammar’ rules it raised expectations of automatic systems capable of high quality translation in the near future. This paper describes the system, its background, its impact and its implications."
@@ -43,11 +38,15 @@ For anything else, open an issue or contact Maria Antoniak.
 [First Tragedy, then Parse: History Repeats Itself in the New Era of Large Language Models](https://aclanthology.org/2024.naacl-long.128/) (Saphra et al., NAACL 2024)
 - "Many NLP researchers are experiencing an existential crisis triggered by the astonishing success of ChatGPT and other systems based on large language models (LLMs). After such a disruptive change to our understanding of the field, what is left to do? Taking a historical lens, we look for guidance from the first era of LLMs, which began in 2005 with large n-gram models for machine translation (MT). We identify durable lessons from the first era, and more importantly, we identify evergreen problems where NLP researchers can continue to make meaningful contributions in areas where LLMs are ascendant. We argue that disparities in scale are transient and researchers can work to reduce them; that data, rather than hardware, is still a bottleneck for many applications; that meaningful realistic evaluation is still an open problem; and that there is still room for speculative approaches."
 
+
+
 ### Organizations
 
 Association for Computational Linguistics
 - [Wikipedia](https://en.wikipedia.org/wiki/Association_for_Computational_Linguistics)
 
+The ACL Anthology
+- [The ACL Anthology: Current State and Future Directions](https://aclanthology.org/W18-2504/) (Gildea et al., NLPOSS 2018)
 
 ### Notable Figures
 
