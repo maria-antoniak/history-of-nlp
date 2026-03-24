@@ -20,7 +20,7 @@ For anything else, open an issue or contact Maria Antoniak.
 
 ## Bibliography
 
-### Overview Slides
+### Personal Reflections
 
 [The Long and Winding Road of NLP: Reflections on the Last 30 Years](https://eltimster.github.io/www/pubs/baldwin-jnlp.pdf) by Timothy Baldwin
 
@@ -32,20 +32,11 @@ For anything else, open an issue or contact Maria Antoniak.
 
 [Divination Engines: A Media History of Text Prediction](https://www.proquest.com/docview/1964286735?%20Theses&parentSessionId=53C9QMqagCmgWOxrm1BvxGONBa%2FmcyBtyq%2BcXHxjWPY%3D&sourcetype=Dissertations%20) by Xiaochang Li
 
-<br>
-
-### Popular Press
-
-[When ChatGPT Broke an Entire Field: An Oral History](https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/) by John Pavlus
+ Jurafsky & Martin, Speech and Language Processing, Chapter 1
 
 <br>
 
 ### Overview Articles
-
-[The Georgetown-IBM experiment demonstrated in January 1954](https://aclanthology.org/2004.amta-papers.12/) (Hutchins, AMTA 2004)
-- "The public demonstration of a Russian-English machine translation system in New York in January 1954 – a collaboration of IBM and Georgetown University – caused a great deal of public interest and much controversy. Although a small-scale experiment of just 250 words and six ‘grammar’ rules it raised expectations of automatic systems capable of high quality translation in the near future. This paper describes the system, its background, its impact and its implications."
-
-Joseph Weizenbaum. 1966. [ELIZA—a computer program for the study of natural language communication between man and machine.](https://dl.acm.org/doi/10.1145/365153.365168) Commun. ACM 9, 1 (Jan. 1966), 36–45. https://doi.org/10.1145/365153.365168 
 
 [Natural Language Processing: A Historical Review](https://link.springer.com/chapter/10.1007/978-0-585-35958-8_1) (Karen Spärck Jones, 1992)
 - "This paper reviews natural language processing (NLP) from the late 1940’s to the present, seeking to identify its successive trends as these reflect concerns with different problems or the pursuit of different approaches to solving these problems and building systems as wholes. The review distinguishes four phases in the history of NLP, characterised respectively by an emphasis on machine translation, by the influence of artificial intelligence, by the adoption of a logico-grammatical style, and by an attack on massive language data. The account considers the significant and salient work in each phase, and concludes with an assessment of where we stand after more than forty years of effort in the field."
@@ -54,6 +45,24 @@ Joseph Weizenbaum. 1966. [ELIZA—a computer program for the study of natural la
 - "Many NLP researchers are experiencing an existential crisis triggered by the astonishing success of ChatGPT and other systems based on large language models (LLMs). After such a disruptive change to our understanding of the field, what is left to do? Taking a historical lens, we look for guidance from the first era of LLMs, which began in 2005 with large n-gram models for machine translation (MT). We identify durable lessons from the first era, and more importantly, we identify evergreen problems where NLP researchers can continue to make meaningful contributions in areas where LLMs are ascendant. We argue that disparities in scale are transient and researchers can work to reduce them; that data, rather than hardware, is still a bottleneck for many applications; that meaningful realistic evaluation is still an open problem; and that there is still room for speculative approaches."
 
 [The Development of Natural Language Processing](https://www.academia.edu/6204763/A_Short_History_of_Computational_Linguistics) (Ruth Camburn, 2013)
+
+<br>
+
+### Pivotal Moments
+
+[The Georgetown-IBM experiment demonstrated in January 1954](https://aclanthology.org/2004.amta-papers.12/) (Hutchins, AMTA 2004)
+- "The public demonstration of a Russian-English machine translation system in New York in January 1954 – a collaboration of IBM and Georgetown University – caused a great deal of public interest and much controversy. Although a small-scale experiment of just 250 words and six ‘grammar’ rules it raised expectations of automatic systems capable of high quality translation in the near future. This paper describes the system, its background, its impact and its implications."
+
+-  Marcus et al. 1993, "Building a Large Annotated Corpus of English: The Penn Treebank": ACL Anthology
+
+Joseph Weizenbaum. 1966. [ELIZA—a computer program for the study of natural language communication between man and machine.](https://dl.acm.org/doi/10.1145/365153.365168) Commun. ACM 9, 1 (Jan. 1966), 36–45. https://doi.org/10.1145/365153.365168 
+
+ Vaswani et al. 2017, "Attention Is All You Need": arXiv
+
+[The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
+[When ChatGPT Broke an Entire Field: An Oral History](https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/) by John Pavlus
+
 
 <br>
 
