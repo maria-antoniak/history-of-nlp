@@ -37,6 +37,12 @@ For anything else, open an issue or contact Maria Antoniak.
 [The Georgetown-IBM experiment demonstrated in January 1954](https://aclanthology.org/2004.amta-papers.12/) (Hutchins, AMTA 2004)
 - "The public demonstration of a Russian-English machine translation system in New York in January 1954 – a collaboration of IBM and Georgetown University – caused a great deal of public interest and much controversy. Although a small-scale experiment of just 250 words and six ‘grammar’ rules it raised expectations of automatic systems capable of high quality translation in the near future. This paper describes the system, its background, its impact and its implications."
 
+[Natural Language Processing: A Historical Review](https://link.springer.com/chapter/10.1007/978-0-585-35958-8_1) (Karen Spärck Jones, 1992)
+- "This paper reviews natural language processing (NLP) from the late 1940’s to the present, seeking to identify its successive trends as these reflect concerns with different problems or the pursuit of different approaches to solving these problems and building systems as wholes. The review distinguishes four phases in the history of NLP, characterised respectively by an emphasis on machine translation, by the influence of artificial intelligence, by the adoption of a logico-grammatical style, and by an attack on massive language data. The account considers the significant and salient work in each phase, and concludes with an assessment of where we stand after more than forty years of effort in the field."
+
+[First Tragedy, then Parse: History Repeats Itself in the New Era of Large Language Models](https://aclanthology.org/2024.naacl-long.128/) (Saphra et al., NAACL 2024)
+- "Many NLP researchers are experiencing an existential crisis triggered by the astonishing success of ChatGPT and other systems based on large language models (LLMs). After such a disruptive change to our understanding of the field, what is left to do? Taking a historical lens, we look for guidance from the first era of LLMs, which began in 2005 with large n-gram models for machine translation (MT). We identify durable lessons from the first era, and more importantly, we identify evergreen problems where NLP researchers can continue to make meaningful contributions in areas where LLMs are ascendant. We argue that disparities in scale are transient and researchers can work to reduce them; that data, rather than hardware, is still a bottleneck for many applications; that meaningful realistic evaluation is still an open problem; and that there is still room for speculative approaches."
+
 ### Organizations
 
 Association for Computational Linguistics
@@ -51,6 +57,7 @@ Margaret Masterman
 
 Karen Spärck Jones
 - [Wikipedia](https://en.wikipedia.org/wiki/Karen_Sp%C3%A4rck_Jones)
+- [An Oral History](https://ethw.org/Oral-History:Karen_Sp%C3%A4rck_Jones)
 - "Karen Ida Boalth Spärck Jones FBA (26 August 1935 – 4 April 2007) was a self-taught programmer and a pioneering British computer and information scientist responsible for the concept of inverse document frequency (IDF), a technology that underlies most modern search engines. She was an advocate for women in computer science, her slogan being, "Computing is too important to be left to men." In 2019, The New York Times published her belated obituary in its series _Overlooked_, calling her "a pioneer of computer science for work combining statistics and linguistics, and an advocate for women in the field." From 2008, to recognise her achievements in the fields of information retrieval (IR) and natural language processing (NLP), the Karen Spärck Jones Award is awarded annually to a recipient for outstanding research in one or both of her fields." 
 
 ### Quotable Quotes
