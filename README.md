@@ -32,6 +32,10 @@ For anything else, open an issue or contact Maria Antoniak.
 ### Social Media Threads
 
 
+### Articles
+
+[The Georgetown-IBM experiment demonstrated in January 1954](https://aclanthology.org/2004.amta-papers.12/) (Hutchins, AMTA 2004)
+
 ### Organizations
 
 Association for Computational Linguistics
